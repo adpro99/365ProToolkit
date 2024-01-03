@@ -3,7 +3,7 @@
 1.0.0-beta
 1-3-2024
 ## Download
-(https://github.com/adpro99/365ProToolkit-P/releases/download/v1.0.0.0-beta/365.Pro.Toolkit.zip)https://github.com/adpro99/365ProToolkit-P/releases/download/v1.0.0.0-beta/365.Pro.Toolkit.zip
+https://github.com/adpro99/365ProToolkit-P/releases/download/v1.0.0.0-beta/365.Pro.Toolkit.zip
 ## Requirments
 ## Features
 ## Release Notes
