@@ -1,4 +1,7 @@
 # 365 Pro Toolkit
+## Getting Started
+Video walk through  
+https://youtu.be/OTceV_OgNGA
 ## Current Version
 1.0.0-beta  
 1-3-2024
