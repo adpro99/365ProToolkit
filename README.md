@@ -5,7 +5,7 @@
 ## Download
 https://github.com/adpro99/365ProToolkit-P/releases/download/v1.0.0.0-beta/365.Pro.Toolkit.zip
 ## Requirements
-These are the requirements  
-Yup here they are
+- .net 6
+- Global Admin rights
 ## Features
 ## Release Notes
