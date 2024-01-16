@@ -3,7 +3,7 @@
 Video walk through  
 https://youtu.be/OTceV_OgNGA
 ## Current Version
-1.0.1-beta  
+1.1.0-beta  
 1-16-2024
 ## Download
 Use the link below to download the latest installer  
