@@ -13,7 +13,16 @@ https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro
 - Global Admin rights to tenant
 ## Features
 ## Release Notes
-### 1.0.0.0-beta  
+
+### 1.1.0-beta  
+- Added Upgrade group members tool
+- Add 9 group reports
+- Changed the columns attribute selector to only list relevant attributes
+- Fixed log column. It now displays the full message
+- The export button has been fixed
+- Toolkit is now a verified publisher with Microsoft
+
+### 1.0.0-beta  
 - Import Tool
 - User Update Tool
 - AD Cleanup Tool
