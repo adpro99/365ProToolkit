@@ -3,8 +3,9 @@
 Video walk through  
 https://youtu.be/OTceV_OgNGA
 ## Current Version
-1.1.0-beta  
-1-16-2024
+### Version: 1.1.0-beta  
+### Release Date: 1-16-2024
+
 ## Download
 Use the link below to download the latest installer  
 https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip
