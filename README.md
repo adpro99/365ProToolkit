@@ -18,14 +18,9 @@ Installation is very easy. Use the link below to download the latest version and
 
 [Download Now](https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip)
 
-
-
-
 Video walk through  
 https://youtu.be/OTceV_OgNGA
 
-
-## Features
 ## Release Notes
 
 ### 1.1.0-beta  
@@ -41,4 +36,6 @@ https://youtu.be/OTceV_OgNGA
 - User Update Tool
 - AD Cleanup Tool
 - User reports
+
+- ## Features
 
