@@ -14,18 +14,16 @@ The 365 Pro Toolkit is currently in beta. We are looking for testers to help tes
 - Global Admin rights to tenant
 
 ### Install Steps
+Installation is very easy. Use the link below to download the latest version and walk through the install wizard. 
+
+**Download**
+https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip
 
 
 Video walk through  
 https://youtu.be/OTceV_OgNGA
 
 
-## Download
-Use the link below to download the latest installer  
-https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip
-## Requirements
-- .net 6.0 Desktop Runtime -> Download from Microsoft https://dotnet.microsoft.com/en-us/download/dotnet/6.0
-- Global Admin rights to tenant
 ## Features
 ## Release Notes
 
