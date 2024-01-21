@@ -1,10 +1,15 @@
 # 365 Pro Toolkit
-## Getting Started
-Video walk through  
-https://youtu.be/OTceV_OgNGA
+The 365 Pro Toolkit is a product of activedirectorypro.com. The software is used to simplify the management of Entra ID and Office 365. 
+
 ## Current Version
 ### Version: 1.1.0-beta  
 ### Release Date: 1-16-2024
+
+
+## Getting Started
+Video walk through  
+https://youtu.be/OTceV_OgNGA
+
 
 ## Download
 Use the link below to download the latest installer  
