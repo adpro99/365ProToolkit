@@ -7,6 +7,10 @@ The 365 Pro Toolkit is a product of activedirectorypro.com. The software is used
 
 
 ## Getting Started
+The 365 Pro Toolkit is currently in beta. We are looking for testers to help test its features and get feedback on new features. To join the beta program and get a fully functional license follow the steps below. 
+
+###Step 1. Create a github account. 
+
 Video walk through  
 https://youtu.be/OTceV_OgNGA
 
