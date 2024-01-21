@@ -16,8 +16,9 @@ The 365 Pro Toolkit is currently in beta. We are looking for testers to help tes
 ### Install Steps
 Installation is very easy. Use the link below to download the latest version and walk through the install wizard. 
 
-**Download**
-https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip
+[Download Now]([https://www.example.com](https://github.com/adpro99/365ProToolkit-P/releases/download/v1.1.0-beta/365.Pro.Toolkit.v1.1.0-beta.zip))
+
+
 
 
 Video walk through  
