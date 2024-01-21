@@ -1,5 +1,5 @@
 # 365 Pro Toolkit
-The 365 Pro Toolkit is a product of activedirectorypro.com. The software is used to simplify the management of Entra ID and Office 365. 
+The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirectorypro.com) The software is used to simplify the management and reporting of Entra ID and Office 365. 
 
 ## Current Version
 ### Version: 1.1.0-beta  
