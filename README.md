@@ -7,10 +7,14 @@ The 365 Pro Toolkit is a product of activedirectorypro.com. The software is used
 
 
 ## Getting Started
-The 365 Pro Toolkit is currently in beta. We are looking for testers to help test its features and get feedback on new features. To join the beta program and get a fully functional license follow the steps below. 
+The 365 Pro Toolkit is currently in beta. We are looking for testers to help test its features and get feedback on new features. To join the beta program and receive a fully functional license send an email to robert@activedirectorypro.com
 
-### Step 1. Create a github account. 
-### Step 2. Post a comment in the 
+### Prerequisite
+- .net 6.0 Desktop Runtime -> Download from Microsoft https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+- Global Admin rights to tenant
+
+### Install Steps
+
 
 Video walk through  
 https://youtu.be/OTceV_OgNGA
