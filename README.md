@@ -23,6 +23,11 @@ https://youtu.be/OTceV_OgNGA
 
 ## Release Notes
 
+### 1.2.0-Beta
+- Added license reports
+- Changed Given Name and Surnmae to First Name and Last Name
+- Added is licensed to all user reports
+
 ### 1.1.0-beta  
 - Added Upgrade group members tool
 - Add 9 group reports
