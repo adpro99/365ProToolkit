@@ -3,6 +3,8 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 
 ## Current Version
 ### Version: 1.2.0-beta  
+[Download Now](https://github.com/adpro99/365ProToolkit/releases/download/v1.2.0-beta/365.Pro.Toolkit.v1.2.0.zip)
+
 ### Release Date: 1-22-2024
 
 
