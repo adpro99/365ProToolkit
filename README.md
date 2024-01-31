@@ -25,6 +25,9 @@ https://youtu.be/OTceV_OgNGA
 
 ## Release Notes
 
+### 1.3.0-Beta
+- Added OneDrive Copy Tool
+
 ### 1.2.0-Beta
 - Added license reports
 - Changed Given Name and Surnmae to First Name and Last Name
