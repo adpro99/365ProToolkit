@@ -25,6 +25,15 @@ https://youtu.be/OTceV_OgNGA
 
 ## Release Notes
 
+### 1.5.0-Beta
+- Changes to attribute list are now saved
+- Updated dashboard
+- Dashboard is now cached
+- Added addutional attributes to user reports
+- Fixed time format (removed +00:00)
+- Fixed synced group report (It was not working)
+
+
 ### 1.3.0-Beta
 - Added OneDrive Copy Tool
 
