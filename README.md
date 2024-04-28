@@ -30,11 +30,11 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 ### 1.1.0 - 4-24-2024
 ### Added
 Added the following exchange online reports:
--All Mailboxes
--Shared Mailboxes
--Inactive Mailboxes
--Archive Mailboxes
--Mailboxes with forwarding enabled.
+- All Mailboxes
+- Shared Mailboxes
+- Inactive Mailboxes
+- Archive Mailboxes
+- Mailboxes with forwarding enabled.
 All Email Addresses
 Auto Reply Enabled
 MailTip Settings
