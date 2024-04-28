@@ -27,8 +27,32 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 ### Fixed
 - Buttons where not working in several reports.
 
-### Install Steps
-Installation is very easy. Use the link below to download the latest version and walk through the install wizard. 
+### 1.1.0 - 4-24-2024
+### Added
+Added the following exchange online reports
+-All Mailboxes
+-Shared Mailboxes
+-Inactive Mailboxes
+-Archive Mailboxes
+-Mailboxes with forwarding enabled.
+All Email Addresses
+Auto Reply Enabled
+MailTip Settings
+Mailbox Protocol Settings
+Hidden Mailboxes
+Recently Created
+Recently Deleted
+Enabled Exchange users
+Disable Exchange users
+Users without a mailbox license
+Mailbox license summary
+Mailbox delegation summary
+Send as permissions
+Send on behalf permissions
+Full Access
+
+
+
 
 
 
