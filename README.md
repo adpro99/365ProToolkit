@@ -19,15 +19,15 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 - Global Admin rights to tenant
 
 ## Change Log
-### 1.1.2 - 4-28-2024
+### [1.1.2] - 4-28-2024
 ### Fixed
 - Add code to handle unhandled exception
 
-### 1.1.1 - 4-27-2024
+### ]1.1.1] - 4-27-2024
 ### Fixed
 - Buttons where not working in several reports.
 
-### 1.1.0 - 4-24-2024
+### [1.1.0] - 4-24-2024
 ### Added
 Added the following exchange online reports:
 - All Mailboxes
