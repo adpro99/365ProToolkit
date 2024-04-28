@@ -18,10 +18,14 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 - .net 6.0 Desktop Runtime -> Download from Microsoft https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 - Global Admin rights to tenant
 
-## Current Version
-### Version: 1.1.2
+## Change Log
+### 1.1.2 - 4-28-2024
+### Fixed
+- Add code to handle unhandled exception
 
-
+### 1.1.1 - 4-27-2024
+### Fixed
+- Buttons where not working in several reports.
 
 ### Install Steps
 Installation is very easy. Use the link below to download the latest version and walk through the install wizard. 
