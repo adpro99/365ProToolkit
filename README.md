@@ -1,8 +1,6 @@
 # Microsoft 365 Reporting and Mangement Tool
 
-The [365 Pro Toolkit](https://activedirectorypro.com/365-pro-toolkit/) is a GUI Tool to stream the management and reporting of Microsoft 365. 
-
-
+The [365 Pro Toolkit](https://activedirectorypro.com/365-pro-toolkit/) is a GUI Tool to simplify the management and reporting of Microsoft 365. 
 
 ## Features
 - Bulk Create 365 User Accounts
