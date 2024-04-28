@@ -23,7 +23,7 @@ The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirecto
 ### Fixed
 - Add code to handle unhandled exception
 
-### ]1.1.1] - 4-27-2024
+### [1.1.1] - 4-27-2024
 ### Fixed
 - Buttons where not working in several reports.
 
@@ -35,21 +35,26 @@ Added the following exchange online reports:
 - Inactive Mailboxes
 - Archive Mailboxes
 - Mailboxes with forwarding enabled.
-All Email Addresses
-Auto Reply Enabled
-MailTip Settings
-Mailbox Protocol Settings
-Hidden Mailboxes
-Recently Created
-Recently Deleted
-Enabled Exchange users
-Disable Exchange users
-Users without a mailbox license
-Mailbox license summary
-Mailbox delegation summary
-Send as permissions
-Send on behalf permissions
-Full Access
+- All Email Addresses
+- Auto Reply Enabled
+- MailTip Settings
+- Mailbox Protocol Settings
+- Hidden Mailboxes
+- Recently Created
+- Recently Deleted
+- Enabled Exchange users
+- Disable Exchange users
+- Users without a mailbox license
+- Mailbox license summary
+- Mailbox delegation summary
+- Send as permissions
+- Send on behalf permissions
+- Full Access
+- Mailbox Sizes
+- Large Mailboxes
+- Send and Receive Size
+- Mailbox Quota Settings
+- Recipient limits
 
 
 
