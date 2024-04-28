@@ -1,6 +1,8 @@
 # Microsoft 365 Reporting and Mangement Tool
 
-The 365 Pro Toolkit is a product of [Active Directory Pro](https://activedirectorypro.com). The 365 Pro Toolkit is is a Microsofot 365 Tool to streamline reporting and mamangement tasks. 
+The 365 Pro Toolkit is is a Microsofot 365 Tool to streamline reporting and mamangement tasks. 
+
+The toolkit is a product of [Active Directory](https://activedirectorypro.com).
 
 ## Features
 - Bulk Create 365 User Accounts
